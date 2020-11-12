@@ -16,6 +16,7 @@ author: Stephanie Thurner
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
+  CV: "/cvfolder/Thurner CV March.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
