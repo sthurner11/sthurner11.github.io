@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stephanie D. Thurner
-subtitle: MS student in the Branch lab at UW SAFS
+subtitle:  MS student, Branch lab, UW SAFS
 ---
 ### Contact
 **Email:** sthurner@uw.edu
