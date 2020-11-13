@@ -5,6 +5,7 @@ subtitle: MS student in the Branch lab at UW SAFS
 ---
 ### Contact
 **Email:** sthurner@uw.edu
+
 **Office:** School of Aquatic and Fishery Sciences, FSH 214
 
 ### Current Research
